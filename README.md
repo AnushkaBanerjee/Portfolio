@@ -25,6 +25,4 @@ This portfolio website is built using only HTML and CSS, making it lightweight a
 ## Usage
 Open the `index.html` file in your preferred web browser to view the portfolio. Modify the HTML and CSS files to personalize the content, update project information, and add your own details.
 
-```bash
-# Example command to open the index.html file in the default web browser on Linux/Mac
-xdg-open index.html
+
